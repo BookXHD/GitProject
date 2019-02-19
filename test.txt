@@ -6,3 +6,5 @@ new xxx
 push remote
 ===========
 push remote second time
+=============
+pull from remote
